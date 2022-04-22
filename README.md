@@ -11,27 +11,38 @@ Each type of staircase should consist of 2 or more steps. No two steps are allow
 \#
 
 \#\#
+
 21
 
 When N = 4, you still only have 1 staircase choice:
 
 \#
+
 \#
+
 \#\#
+
 31
 
 
 But when N = 5, there are two ways you can build a staircase from the given bricks. The two staircases can have heights (4, 1) or (3, 2), as shown below:
 
 \#
+
 \#
+
 \#
+
 \#\#
+
 41
 
 \#
+
 \#\#
+
 \#\#
+
 32
 
 
