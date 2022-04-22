@@ -9,6 +9,7 @@ Each type of staircase should consist of 2 or more steps. No two steps are allow
 
 
 \#
+
 \#\#
 21
 
